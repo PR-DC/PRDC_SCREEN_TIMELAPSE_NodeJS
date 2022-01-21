@@ -1,0 +1,17 @@
+{
+  "name": "PR-PRDC_SCREEN_TIMELAPSE",
+  "version": "0.0.1",
+  "description": "PR-DC Screen Timelapse",
+  "main": "PRDC_SCREEN_TIMELAPSE.js",
+  "repository": "https://github.com/PR-DC/PRDC_SCREEN_TIMELAPS_NodeJS",
+  "license": "GPL-3.0-or-later",
+  "scripts": {
+    "start": "node PRDC_SCREEN_TIMELAPSE.js",
+    "inspect": "node --inspect PRDC_SCREEN_TIMELAPSE.js"
+  },
+  "author": "Milos Petrasinovic <mpetrasinovic@pr-dc.com>",
+  "dependencies": {
+    "screenshot-desktop": "^1.12.7",
+    "node-prevent-sleep": "^0.0.4"
+  }
+}

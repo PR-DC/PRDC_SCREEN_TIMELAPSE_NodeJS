@@ -1,0 +1,10 @@
+--------------------
+PRDC_SCREEN_TIMELAPSE_NodeJS
+Recording screen timelapse with configurable framerate.
+--------------------
+
+Release 1.0.0, 21.01.2022.
+
+- Initial release
+
+--------------------
